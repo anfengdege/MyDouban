@@ -1,0 +1,39 @@
+{
+    "donators_count": 6,
+    "donators": [
+        {
+            "url": "https://read.douban.com/people/137607834",
+            "avatar": "https://img3.doubanio.com/icon/u137607834-3.jpg",
+            "name": "softly"
+        },
+        {
+            "url": "https://read.douban.com/people/155979350",
+            "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+            "name": "dudu"
+        },
+        {
+            "url": "https://read.douban.com/people/outpatient",
+            "avatar": "https://img3.doubanio.com/icon/u3451987-32.jpg",
+            "name": "YOUNG"
+        },
+        {
+            "url": "https://read.douban.com/people/72180196",
+            "avatar": "https://img1.doubanio.com/icon/user_normal.jpg",
+            "name": "einar 1"
+        },
+        {
+            "url": "https://read.douban.com/people/128222206",
+            "avatar": "https://img1.doubanio.com/icon/u128222206-9.jpg",
+            "name": "teng每天要开心"
+        },
+        {
+            "url": "https://read.douban.com/people/whamjane",
+            "avatar": "https://img3.doubanio.com/icon/u3972259-55.jpg",
+            "name": "晃晃"
+        }
+    ],
+    "works_title": "你可以拥有你想要的生活",
+    "is_on_sale": true,
+    "type_name_cn": "专栏",
+    "author_name": "艾小玛"
+}
